@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab9f35b1-2b2e-4416-86a0-4173404cce72" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-dao/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-common/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-sellergoods-interface/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-sellergoods-service/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-shop-web/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-content-interface/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-content-service/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-portal-web/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-solr-util/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-search-interface/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-search-service/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-search-web/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-page-interface/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-page-service/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-page-web/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-sms-service/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-cart-interface/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-cart-web/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-order-interface/target/" />
+    <ignored path="$PROJECT_DIR$/dongyimai-order-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-shop-web/src/main/java/com/offcn/shop/controller/TypeTemplateController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-sellergoods-service/src/main/java/com/offcn/sellergoods/service/impl/TypeTemplateServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="146" column="45" lean-forward="true" selection-start-line="146" selection-start-column="45" selection-end-line="146" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/js/controller/contentController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1699" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/admin/content.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2280" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/admin/goods.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="947">
+              <caret line="87" column="87" lean-forward="true" selection-start-line="87" selection-start-column="87" selection-end-line="87" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/resources/spring/spring-activemq.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-399" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-search-service/src/main/resources/spring/applicationContext-jms-consumer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-search-service/src/main/java/com/offcn/search/service/impl/ItemSearchListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dongyimai-shop-web/src/main/webapp/js/controller/goodsController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="220" lean-forward="true" selection-start-line="220" selection-end-line="220" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dongyimai-shop-web/src/main/webapp/js/controller/baseController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-503" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="package.json" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>commons</find>
+      <find>insert</find>
+      <find>add</find>
+      <find>用户名</find>
+      <find>spring-jms</find>
+      <find>codec</find>
+      <find>$event</find>
+      <find>9003</find>
+      <find>Michelle</find>
+      <find>退出登录</find>
+      <find>9106</find>
+      <find>UserDetailServiceImpl</find>
+      <find>redisTemplate</find>
+      <find>fileupload</find>
+      <find>service</find>
+      <find>serviceProperties</find>
+      <find>servlet</find>
+      <find>???????</find>
+      <find>已选择0件商品</find>
+      <find>creatItemList</find>
+      <find>请登录</find>
+      <find>张默</find>
+      <find>寄送至</find>
+      <find>加入购物车</find>
+      <find>微信付款</find>
+      <find>件商品</find>
+      <find>结算</find>
+      <find>tborder</find>
+      <find>提交</find>
+      <find>收货人</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>entity</replace>
+      <replace>reloadList</replace>
+      <replace>brandService</replace>
+      <replace>{{loginName}}</replace>
+      <replace>grade</replace>
+      <replace>goodsDesc</replace>
+      <replace>itemImages</replace>
+      <replace>offcn</replace>
+      <replace>\\</replace>
+      <replace>9106</replace>
+      <replace>9107</replace>
+      <replace>tbOrder</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/webapp/js/service/userService.js" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/resources/spring/spring-activemq.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/webapp/register.html" />
+        <option value="$PROJECT_DIR$/dongyimai-user-service/src/main/resources/spring/applicationContext-activemq.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-sms-service/src/main/resources/spring/spring-activemq.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-user-service/src/main/java/com/offcn/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/webapp/js/controller/userController.js" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/java/com/offcn/service/UserDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/java/com/offcn/user/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/webapp/js/controller/indexController.js" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/webapp/home-index.html" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/resources/spring/spring-activemq.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-user-web/src/main/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/java/com/offcn/cart/service/UserDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dongyimai-manager-web/src/main/java/com/offcn/sellergoods/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/dongyimai-page-service/src/main/java/com/offcn/page/service/impl/ItemPageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dongyimai-pojo/src/main/java/com/offcn/entity/Cart.java" />
+        <option value="$PROJECT_DIR$/dongyimai-common/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/java/com/offcn/cart/CartController.java" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-interface/src/main/java/com/offcn/cart/service/CartService.java" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-service/src/main/java/com/offcn/cart/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dongyimai-user-interface/src/main/java/com/offcn/user/service/AddressService.java" />
+        <option value="$PROJECT_DIR$/dongyimai-user-service/src/main/java/com/offcn/user/service/impl/AddressServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/java/com/offcn/cart/controller/AddressController.java" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/java/com/offcn/cart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/js/controller/itemController.js" />
+        <option value="$PROJECT_DIR$/dongyimai-page-service/src/main/webapp/WEB-INF/ftl/item.ftl" />
+        <option value="$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868026.html" />
+        <option value="$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868027.html" />
+        <option value="$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868028.html" />
+        <option value="$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868029.html" />
+        <option value="$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868030.html" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/cart.html" />
+        <option value="$PROJECT_DIR$/dongyimai-order-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-order-interface/src/main/java/com/offcn/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/dongyimai-order-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/java/com/offcn/cart/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/js/service/cartService.js" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/js/controller/cartController.js" />
+        <option value="$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/getOrderInfo.html" />
+        <option value="$PROJECT_DIR$/dongyimai-order-service/src/main/java/com/offcn/order/service/impl/OrderServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/develop/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\develop\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="width" value="933" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dongyimai-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongyimai-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongyimai-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongyimai-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="dongyimai-shop-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongyimai-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongyimai-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="dongyimai-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongyimai-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongyimai-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="dongyimai-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongyimai-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongyimai-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="dongyimai-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongyimai-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongyimai-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="dongyimai-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongyimai-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongyimai-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="dongyimai-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609815940392" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15364583" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-solr-util\src\main\resources\spring" />
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-shop-web\src\main\resources" />
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-manager-web\src\main\resources\spring" />
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-manager-web\src\main\webapp\js" />
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-manager-web\src\main\webapp\js\controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.offcn.cart.controller" />
+      <recent name="com.offcn.cart.service" />
+      <recent name="com.offcn.user.controller" />
+      <recent name="com.offcn.service" />
+      <recent name="com.offcn.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-cart-web\src\main\webapp" />
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-common\src\main\java\com\offcn\util" />
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-cart-web\src\main\webapp\js\controller" />
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-cart-web\src\main\webapp\js\service" />
+      <recent name="E:\idea\workspace\sta4\dongyimai-parent\dongyimai-cart-web\src\main\java\com\offcn\cart\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SmsTest">
+    <configuration name="SmsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offcn.sms.SmsTest" />
+      <module name="dongyimai-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offcn.solrutil.SolrUtil" />
+      <module name="dongyimai-solr-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.solrutil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SmsTest" />
+        <item itemvalue="Application.SolrUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab9f35b1-2b2e-4416-86a0-4173404cce72" name="Default Changelist" comment="" />
+      <created>1605189567351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605189567351</updated>
+      <workItem from="1605189574218" duration="1566000" />
+      <workItem from="1605255425461" duration="9534000" />
+      <workItem from="1605342310155" duration="204000" />
+      <workItem from="1605343780125" duration="2569000" />
+      <workItem from="1605349118862" duration="9007000" />
+      <workItem from="1605423861151" duration="4757000" />
+      <workItem from="1605439744168" duration="3616000" />
+      <workItem from="1605450489050" duration="1427000" />
+      <workItem from="1605488247498" duration="15856000" />
+      <workItem from="1605535614053" duration="5592000" />
+      <workItem from="1605572505969" duration="20540000" />
+      <workItem from="1605617928040" duration="3039000" />
+      <workItem from="1605621039401" duration="8748000" />
+      <workItem from="1605659679319" duration="8599000" />
+      <workItem from="1605690860879" duration="15877000" />
+      <workItem from="1605745180802" duration="19244000" />
+      <workItem from="1605797839370" duration="4166000" />
+      <workItem from="1605832093539" duration="6416000" />
+      <workItem from="1605877440503" duration="5091000" />
+      <workItem from="1605940389203" duration="29112000" />
+      <workItem from="1606028677052" duration="10978000" />
+      <workItem from="1606092988486" duration="25234000" />
+      <workItem from="1606187048125" duration="14505000" />
+      <workItem from="1606276587867" duration="6315000" />
+      <workItem from="1606303165369" duration="28000" />
+      <workItem from="1606305821940" duration="4838000" />
+      <workItem from="1606353315886" duration="21742000" />
+      <workItem from="1606463377822" duration="13889000" />
+      <workItem from="1606528703146" duration="15023000" />
+      <workItem from="1606631489222" duration="4514000" />
+      <workItem from="1606720680211" duration="7465000" />
+      <workItem from="1606740027161" duration="22722000" />
+      <workItem from="1606831122891" duration="1324000" />
+      <workItem from="1606834308251" duration="1651000" />
+      <workItem from="1606897328609" duration="13313000" />
+      <workItem from="1606983544876" duration="11124000" />
+      <workItem from="1607002764768" duration="22000" />
+      <workItem from="1607003117330" duration="3387000" />
+      <workItem from="1607079546109" duration="650000" />
+      <workItem from="1607080340972" duration="30802000" />
+      <workItem from="1607387364388" duration="13406000" />
+      <workItem from="1607502261049" duration="8341000" />
+      <workItem from="1607568829071" duration="3411000" />
+      <workItem from="1608036266249" duration="311000" />
+      <workItem from="1609743043209" duration="6981000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="416936000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="7" weight="0.30181542" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32843137" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4869281" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Translation Assistant" order="0" weight="0.32980332" />
+      <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="right" id="Run" order="11" weight="0.37594554" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.2927383" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32843137" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.5866013" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Translation Assistant" order="0" weight="0.32980332" />
+      <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="right" id="Run" order="11" weight="0.37594554" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="javascript-exception">
+          <dependency id="0" />
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dongyimai-user-interface/src/main/java/com/offcn/user/service/AddressService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.4/dubbo-2.6.4.jar!/com/alibaba/dubbo/config/invoker/DelegateProviderMetaDataInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-user-service/src/main/java/com/offcn/user/service/impl/AddressServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/java/com/offcn/cart/controller/AddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="124" column="5" lean-forward="true" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/js/controller/ItemController - 副本.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-content-service/src/main/java/com/offcn/content/service/impl/ContentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2185" />
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1935" />
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/js/controller/itemController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="64" column="72" selection-start-line="64" selection-start-column="72" selection-end-line="64" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-service/src/main/webapp/WEB-INF/ftl/item.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="264" column="73" selection-start-line="264" selection-start-column="73" selection-end-line="264" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868026.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="263" column="122" lean-forward="true" selection-start-line="263" selection-start-column="40" selection-end-line="263" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868027.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="262" column="73" selection-start-line="262" selection-start-column="73" selection-end-line="262" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868028.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="278" column="73" selection-start-line="278" selection-start-column="73" selection-end-line="278" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868029.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="278" column="73" selection-start-line="278" selection-start-column="73" selection-end-line="278" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-page-web/src/main/webapp/149187842868030.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="277" column="73" selection-start-line="277" selection-start-column="73" selection-end-line="277" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/java/com/offcn/cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="87" column="51" selection-start-line="87" selection-start-column="51" selection-end-line="87" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="19" column="79" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-order-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-content-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="136" column="12" selection-start-line="16" selection-start-column="3" selection-end-line="136" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-order-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="102" column="52" selection-start-line="102" selection-start-column="52" selection-end-line="102" selection-end-column="52" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-order-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-order-service/src/main/resources/spring/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="134" column="43" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-order-interface/src/main/java/com/offcn/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/js/controller/orderController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-common/src/main/java/com/offcn/util/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-order-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/js/service/orderService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/pay.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/java/com/offcn/cart/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="108" column="19" selection-start-line="108" selection-start-column="19" selection-end-line="108" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/js/service/cartService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/js/controller/cartController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-cart-web/src/main/webapp/getOrderInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4465">
+          <caret line="235" column="87" selection-start-line="235" selection-start-column="87" selection-end-line="235" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-search-service/src/main/java/com/offcn/search/service/impl/ItemDeleteListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-search-service/src/main/java/com/offcn/search/service/impl/ItemSearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-order-service/src/main/java/com/offcn/order/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-shop-web/src/main/webapp/js/service/typeTemplateService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-shop-web/src/main/java/com/offcn/shop/controller/TypeTemplateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-sellergoods-service/src/main/java/com/offcn/sellergoods/service/impl/TypeTemplateServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="146" column="45" lean-forward="true" selection-start-line="146" selection-start-column="45" selection-end-line="146" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/js/controller/contentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1699" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4104">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/admin/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1662" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/admin/seller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3809">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/admin/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/webapp/admin/goods.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="947">
+          <caret line="87" column="87" lean-forward="true" selection-start-line="87" selection-start-column="87" selection-end-line="87" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-manager-web/src/main/resources/spring/spring-activemq.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-search-service/src/main/resources/spring/applicationContext-jms-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-search-service/src/main/java/com/offcn/search/service/impl/ItemSearchListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-shop-web/src/main/webapp/js/controller/baseController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongyimai-shop-web/src/main/webapp/js/controller/goodsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="220" lean-forward="true" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>dongyimai-page-web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (dongyimai-sellergoods-interface)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dongyimai-page-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
